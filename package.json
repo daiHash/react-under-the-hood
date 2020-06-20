@@ -1,0 +1,14 @@
+{
+  "name": "react-under-the-hood",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/daiHash/react-under-the-hood.git",
+  "author": "Daichi Hashimura <dhashi92@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "browser-sync start --directory --server --files \"*.css, *.html, *.js\""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
